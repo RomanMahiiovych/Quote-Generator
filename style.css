@@ -1,0 +1,10 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    /* 100vh - без скролингу, за 100 уже є вертикальний скролинг */
+    min-height: 100vh;
+    background: dodgerblue;
+}
